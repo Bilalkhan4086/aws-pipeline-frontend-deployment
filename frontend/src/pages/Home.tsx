@@ -1,8 +1,5 @@
 import React from 'react';
-import  Page1  from '../components/page1';
-import  Page2  from '../components/page2';
-import {  Router } from "@reach/router";
-import {Link, navigate} from "gatsby"
+import {navigate} from "gatsby"
 
 
 const Home = () => {
