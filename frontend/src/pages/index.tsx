@@ -9,7 +9,7 @@ export default function Home() {
     Hello Bilal!<br/>
     <button
         onClick={()=>{navigate('/Home')}}>
-            Home
+            Go to Home
         </button>
     </Layout>
    )
